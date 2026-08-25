@@ -1,0 +1,14 @@
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\bin\Debug\net10.0\New folder (11).exe
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\bin\Debug\net10.0\New folder (11).deps.json
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\bin\Debug\net10.0\New folder (11).runtimeconfig.json
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\bin\Debug\net10.0\New folder (11).dll
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\bin\Debug\net10.0\New folder (11).pdb
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\New folder (11).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\New folder (11).AssemblyInfoInputs.cache
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\New folder (11).AssemblyInfo.cs
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\New folder (11).csproj.CoreCompileInputs.cache
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\New folder (11).dll
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\refint\New folder (11).dll
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\New folder (11).pdb
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\New folder (11).genruntimeconfig.cache
+C:\Users\Win11\OneDrive\Desktop\New folder (11)\obj\Debug\net10.0\ref\New folder (11).dll
